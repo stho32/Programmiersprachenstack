@@ -3,6 +3,8 @@
 Mein Programmiersprachenstack sowie die jeweilige Begründung.
 
 Primär-Ziel meines Stacks ist die Entwicklung nachhaltiger webbasierter Geschäftsanwendungen.
+Mein Stack ist auf Windows-Entwicklung ausgerichtet, auch wenn sich das dank der neuen Ausrichtungen von Microsoft Schritt für Schritt immer mehr ändert. Ursache ist hierbei die Anpassung an meinen Arbeitgeber, der als Microsoft-Partner eben solche Produkte und damit vornehmlich Windows einsetzt.
+
 Es gibt immer mal wieder Projekte, die nicht in diesen Bereich fallen, dafür gibt es sekundäre Technologien im Stack, die ich mit * gekennzeichnet habe.
 
 
