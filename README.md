@@ -61,6 +61,7 @@ Es gibt immer mal wieder Projekte, die nicht in diesen Bereich fallen, dafür gi
   - jQuery (simple Frontends)
   - SASS (SCSS)
   - CSS BEM
+  - SQL Server 2012 (kommende Version?)
   - SQL Server Management Studio
   - Windows Server 2012 R2
   - Windows 10
