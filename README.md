@@ -55,3 +55,29 @@ Es gibt immer mal wieder Projekte, die nicht in diesen Bereich fallen, dafür gi
 
   - R hat diverse Vorteile in der Verarbeitung von Massen-Daten. Auf der anderen Seite setze ich es so selten ein, dass ich glaube, dass ich es von allen Sprachen im Stack am ehesten entbehren kann.
   
+## Tools, Bibliotheken und Paradigmen
+
+  - Knockout.js (komplexere Frontends)
+  - jQuery (simple Frontends)
+  - SASS (SCSS)
+  - CSS BEM
+  - SQL Server Management Studio
+  - Windows Server 2012 R2
+  - Windows 10
+  - Visual Studio 2017
+  - Git
+  - Mercurial
+  - nodejs
+  - Typescript??? (darüber denkt KEGL gerade nach)
+  - Visual Studio Code
+  - Resharper
+  - HeidiSQL
+  - ...
+  
+## Gute Frage
+
+  - Wie organisiert man den gesamten Tech Stack und alle geschriebenen Anwendungen so, dass ein Onboarder nach 1 Jahr in der Lage ist, alle Technologien durchschnittlich zu können und nach 2 Jahren Zertifikate darin ablegen könnte?
+  
+ 
+  
+
