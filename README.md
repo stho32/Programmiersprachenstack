@@ -1,11 +1,26 @@
 # Technologie-Stack
 
-Mein Tech-Stack sowie die jeweilige Begründung.
-
 Primär-Ziel meines Stacks ist die Entwicklung nachhaltiger webbasierter Geschäftsanwendungen.
 Mein Stack ist auf Windows-Entwicklung ausgerichtet, auch wenn sich das dank der neuen Ausrichtungen von Microsoft Schritt für Schritt immer mehr ändert. Ursache ist hierbei die Anpassung an meinen Arbeitgeber, der als Microsoft-Partner eben solche Produkte und damit vornehmlich Windows einsetzt.
 
 Es gibt immer mal wieder Projekte, die nicht in diesen Bereich fallen, dafür gibt es sekundäre Technologien im Stack, die ich mit * gekennzeichnet habe.
+
+## Prinzipien
+
+  - Die Technologien folgen dem Bedarf des Unternehmens, nicht umgekehrt!
+  - Der Mensch vergisst mit der Zeit. Um eine Technologie ernsthaft zu beherrschen ist es daher nötig, sie häufig anzuwenden. 
+  - Je mehr Technologien im Stack enthalten sind, desto weniger Lernzeit und Anwendungszeit kann auf die einzelne Technologie entfallen. Daher sollte das Ziel sein, nur so viele Techs zu nutzen, wie dringend notwendig.
+  - Full Stack: Die Koordinierung mehrerer gleichzeitig programmierender Entwickler ist anstrengender und fehleranfälliger, als wenn ein Entwickler alles macht. Daher ist es günstiger, wenn der Stack für die Entwicklung von Lösungen vollständig ausreicht. 
+  - Erfahrung schlägt Zertifikate! Erfahrung und Zertifikate schlagen alles!
+
+  - Dimensionen einer Technologie:
+    - Reifegrad
+    - Sicherheit? Wie leicht fällt es, Sicherheitsprobleme aus Versehen in die Anwendungen einzubauen.
+    - Wie leicht fällt es, Fehler zu machen?
+    - Wenig Code nötig > Viel Code nötig
+    - In die Sprache integriert > durch 3rd Party Libs verfügbar
+    - Debugbarkeit?
+    - IDE?
 
 ## Programmiersprachen
 
