@@ -13,7 +13,9 @@ Es gibt immer mal wieder Projekte, die nicht in diesen Bereich fallen, dafür gi
   - Full Stack: Die Koordinierung mehrerer gleichzeitig programmierender Entwickler ist anstrengender und fehleranfälliger, als wenn ein Entwickler alles macht. Daher ist es günstiger, wenn der Stack für die Entwicklung von Lösungen vollständig ausreicht. 
 
   - Dimensionen einer Technologie:
-    - Reifegrad
+    - Reifegrad (u.a. wie oft kommen Updates heraus? Breaking-Changes?)
+    - Lässt sich eine kontrollierte Entwicklungsumgebung für die Sprache herstellen?
+    - Wie funktioniert Qualitätssicherung in der Sprache?
     - Sicherheit? Wie leicht fällt es, Sicherheitsprobleme aus Versehen in die Anwendungen einzubauen.
     - Wie leicht fällt es, Fehler zu machen?
     - Wenig Code nötig > Viel Code nötig
