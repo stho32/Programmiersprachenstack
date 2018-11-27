@@ -24,6 +24,7 @@ Es gibt immer mal wieder Projekte, die nicht in diesen Bereich fallen, dafür gi
     - IDE?
     - Welches Problem löst die Technologie für das Unternehmen? Und wird dieser Beitrag nicht durch eine andere Tech im Stack geliefert?
     - Wirst du diese Technologie wirklich 12 Monate im Jahr einsetzen?
+    - Kompatibilität: Beispiel Web-UI-Framework: Welche Browserversionen müssen unterstützt werden und folglich: Welche Frameworks können das überhaupt leisten?
 
 ## Programmiersprachen
 
