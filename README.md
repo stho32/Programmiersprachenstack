@@ -25,6 +25,7 @@ Es gibt immer mal wieder Projekte, die nicht in diesen Bereich fallen, dafür gi
     - Welches Problem löst die Technologie für das Unternehmen? Und wird dieser Beitrag nicht durch eine andere Tech im Stack geliefert?
     - Wirst du diese Technologie wirklich 12 Monate im Jahr einsetzen?
     - Kompatibilität: Beispiel Web-UI-Framework: Welche Browserversionen müssen unterstützt werden und folglich: Welche Frameworks können das überhaupt leisten?
+    - Wie lange können wir den Stand stabil halten ? (Je länger, desto besser.) (6 Monate, 12 Monate, 24 Monate, 5 Jahre?)
 
 ## Programmiersprachen
 
