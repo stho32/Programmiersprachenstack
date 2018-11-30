@@ -5,7 +5,7 @@
   - Die Sprache ist komplett unlesbar.
   - Hat keine automatische Speicherverwaltung. (Garbage Collection)
   - Keine ordentlichen Strukturierungsmöglichkeiten (Klassen, Dateien, Includes ...)
-  - Kein Type-Linting!
+  - Kein Type-Hinting!
 
 ## Perl
 
