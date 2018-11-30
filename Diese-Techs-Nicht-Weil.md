@@ -29,7 +29,7 @@
 ## Excel-basierter Anwendungsgenerator
 
   - Kein ordentlich lesbarer Code, sondern nur zufällige Variablennamen oder Koordinaten möglich.
-  - Wir müssten Standards setzen, an die sich der Ersteller von Excel-Anwendungen hält, damit wir die Übersetzen können.
+  - Wir müssten Standards setzen, an die sich der Ersteller von Excel-Anwendungen hält, damit wir die übersetzen können.
   - Es ist kein ordentliches Design möglich.
   - Übernahme in komplexere Anwendungen nicht möglich.
   - Anforderung zu selten.
