@@ -8,7 +8,7 @@ Es gibt immer mal wieder Projekte, die nicht in diesen Bereich fallen, dafür gi
 ## Prinzipien
 
   - Die Technologien folgen dem Bedarf des Unternehmens, nicht umgekehrt!
-  - Achtung: Solange Du nicht deine Schuhgröße kennst, passen alle Schuhe.
+  - Achtung: Solange Du nicht Deine Schuhgröße kennst, passen alle Schuhe.
   - Der erste Lernzustand einer Technologie ist geringes Wissen bei hohem Commitment. Also Vorsicht vor DL1.
   - Der Mensch vergisst mit der Zeit. Um eine Technologie ernsthaft zu beherrschen ist es daher nötig, sie häufig anzuwenden. Google/Stackoverflow schlägt Unkenntnis. Erfahrung schlägt Google/Stackoverflow. Erfahrung schlägt Zertifikate. Erfahrung und Zertifikate schlagen alles.
   - Je mehr Technologien im Stack enthalten sind, desto weniger Lernzeit und Anwendungszeit kann auf die einzelne Technologie entfallen. Daher sollte das Ziel sein, nur so viele Techs zu nutzen, wie dringend notwendig.
